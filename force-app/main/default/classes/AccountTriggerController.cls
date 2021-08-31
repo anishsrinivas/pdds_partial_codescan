@@ -2,7 +2,7 @@
 * @author           Demandblue
 * @version          1.0 
 * @Name      		AccountTriggerController
-* @description 		This class is Handler of Account Trigger.
+* @description 		This class is Handler of Account Trigger...
 ********************************************************************************************************************************
 Version    	Date        	   Team    	     Comments
 ********************************************************************************************************************************
